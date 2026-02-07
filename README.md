@@ -76,7 +76,7 @@ pip install jupyter pandas numpy matplotlib seaborn yfinance
 
 2. **Install dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install jupyter pandas numpy matplotlib seaborn yfinance
    ```
 
 3. **Launch Jupyter Notebook:**
